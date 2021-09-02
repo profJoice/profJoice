@@ -2,7 +2,7 @@ Bem-vindo ao meu perfil! 👋
 <hr>
 🎓FORMAÇÃO <br>
 👉Bacharel Sistemas de Informação. <br>
-👉Especialista em Análise e Projeto de Sistemas com Ênfase de Inteligência de Negócios. < Br >
+👉Especialista em Análise e Projeto de Sistemas com Ênfase de Inteligência de Negócios.<br>
 👉Pós-graduada em Tecnologias para Aplicações Web. <br> <br>
 
 👩🏽‍💻TRABALHO<BR>
