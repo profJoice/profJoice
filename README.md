@@ -1,7 +1,12 @@
 Bem-vindo ao meu perfil! 👋
 <hr>
-• Meu nome é Joice Lima.<br>
-• Bacharel Sistemas de Informação. <br>
-• Especialista em Análise e Projeto de Sistemas com Ênfase de Inteligência de Negócios. <br>
-• Pós-graduada em Tecnologias para Aplicações Web. <br>
-• Atualmente sou Professora do programa Edutech, ensino integral (programação) e tutora no curso superior EAD  de Análise e Desenvolvimento de Sistemas.
+🎓FORMAÇÃO <br>
+👉Bacharel Sistemas de Informação. <br>
+👉Especialista em Análise e Projeto de Sistemas com Ênfase de Inteligência de Negócios. < Br >
+👉Pós-graduada em Tecnologias para Aplicações Web. <br> <br>
+
+👩🏽‍💻TRABALHO<BR>
+👉Professora de Front-End - Programa Edutech da SEED. <BR>
+👉Professora de Técnologia e Programação - Ensino fundamental integral da SEED. <br>
+👉Tutora no curso superior EAD  de Análise e Desenvolvimento de Sistemas da KROTON. <br>
+
