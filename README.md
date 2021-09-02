@@ -8,5 +8,7 @@ Bem-vindo ao meu perfil! 👋
 👩🏽‍💻TRABALHO<BR>
 👉Professora de Front-End - Programa Edutech da SEED. <BR>
 👉Professora de Técnologia e Programação - Ensino fundamental integral da SEED. <br>
-👉Tutora no curso superior EAD  de Análise e Desenvolvimento de Sistemas da KROTON. <br>
+👉Tutora no curso superior EAD  de Análise e Desenvolvimento de Sistemas da KROTON. <br><br>
+  
+  <i class = "devicon-adonisjs-original colori"> </i>
 
