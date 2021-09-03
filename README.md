@@ -1,5 +1,5 @@
-Bem-vindo ao meu perfil! 👋
-<hr>
+<h1> Olá, eu sou a Joice Lima 👩‍🏫 </h1>
+
 🎓FORMAÇÃO <br>
 👉Bacharel Sistemas de Informação. <br>
 👉Especialista em Análise e Projeto de Sistemas com Ênfase de Inteligência de Negócios.<br>
@@ -16,6 +16,11 @@ Bem-vindo ao meu perfil! 👋
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br>
+
+<h3> Apaixonada por educação e por mudar a vida de meus alunos através da programação.</h3><br>
+	
+![profJoice github](
+https://github-readme-stats.vercel.app/api/top-langs/?username=profJoice&theme=blue-green)
  
 
