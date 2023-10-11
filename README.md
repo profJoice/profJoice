@@ -4,11 +4,14 @@
 👉Bacharel Sistemas de Informação. <br>
 👉Especialista em Análise e Projeto de Sistemas com Ênfase de Inteligência de Negócios.<br>
 👉Pós-graduada em Tecnologias para Aplicações Web. <br> <br>
+👉Pós-graduada em Ensino EaD. <br> <br>
+👉Pós-graduada em Educação Técnica. <br> <br>
+👉Mestranda em Metodologias para o Ensino de Linguagens e suas Tecnologias. <br> <br>
 
 👩🏽‍💻TRABALHO<BR>
 👉Professora Curso Técnino de Infomática - SENAC. <BR>
 👉Professora Curso Técnino de Infomática - SEED-PR. <BR>
-👉Tutora no curso superior EAD  de Análise e Desenvolvimento de Sistemas da COGNA. <br>
+👉Tutora no curso superior EAD, na Área de Técnologia - COGNA. <br>
  
  🚀 Habilidades<br><br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
