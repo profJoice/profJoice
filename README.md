@@ -1,4 +1,4 @@
-<h1> Olá, eu sou a Joice Lima 👩‍🏫 </h1>
+<h1> Olá, eu sou a Joice S.L. Romanini 👩‍🏫 </h1>
 
 🎓FORMAÇÃO <br>
 👉Bacharel Sistemas de Informação. <br>
