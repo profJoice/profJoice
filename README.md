@@ -23,7 +23,6 @@
 
 <h3> Apaixonada por educação e por mudar a vida de meus alunos através da programação.</h3><br>
 
-![download](https://github.com/profJoice/profJoice/assets/86316151/13c7e04f-aa72-4479-9e06-83c9e3106025)
 	
 ![profJoice github](
 https://github-readme-stats.vercel.app/api/top-langs/?username=profJoice&theme=blue-green)
