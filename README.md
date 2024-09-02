@@ -6,7 +6,7 @@
 👉Pós-graduada em Tecnologias para Aplicações Web. <br> 
 👉Pós-graduada em Ensino EaD. <br> 
 👉Pós-graduada em Educação Técnica. <br> 
-👉Mestranda em Metodologias para o Ensino de Linguagens e suas Tecnologias. <br> <br>
+👉Mestre em Metodologias para o Ensino de Linguagens e suas Tecnologias. <br> <br>
 
 👩🏽‍💻TRABALHO<BR>
 👉Professora Curso Técnino de Infomática - SENAC. <BR>
